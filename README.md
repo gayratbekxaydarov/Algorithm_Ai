@@ -1,5 +1,6 @@
 # Algorithm_Ai
 AI uchun kerak boladigan Algorithmlarni pythonda yozilishi. Writing algorithms needed for AI in Python. AIに必要なアルゴリズムをPythonで記述します。
+
 Hozir KNN va KMeans algorithmlari bor ular haqida:
 KNN - bu yangi ma'lumot  yoki dataga eng yaqin turgan K ta qo'shning  sinfiga qarab bu data (ma'lumot)  qaysi sinfga tegishli bo'lishini bashorat qiladi.
 Matematika asosi: Masofani hisoblash uchun ko'pincha Evklid masofasi yoki inglizcha (Euclidean distance) dan foydalaniladi.
